@@ -29,6 +29,9 @@ sudo mongod in "downloads"
 
 new terminal ./mongo in bin
 
+postman to get/post from localhost:300/api/..
+
+
 mongodump -d <database_name> -o <directory_backup> (in bin)
 And to "restore/import" that, i used (from directory_backup/dump/):
 mongorestore -d <database_name> <directory_backup>
