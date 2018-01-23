@@ -1,8 +1,7 @@
 # IT-case
 Kräver node.js, express.js, mongodb
 
-
-1.https://nodejs.org/en/
+#1.https://nodejs.org/en/
 2.https://expressjs.com/en/starter/installing.html
 3.https://www.mongodb.com/download-center?jmp=nav#atlas Community Server
 Sublimetext 2 as editor
