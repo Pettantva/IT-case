@@ -17,7 +17,7 @@ npm install -g express (in carshop)
 
 npm initi (package)
 
-dependencies in oacjage: express, body.parser and mongoose
+dependencies in package: express, body.parser and mongoose
 
 node app to run in carshop
 
