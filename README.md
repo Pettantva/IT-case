@@ -29,6 +29,8 @@ sudo mongod in "downloads"
 
 new terminal ./mongo in bin
 
-mongodump -d <database_name> -o <directory_backup>
+mongodump -d <database_name> -o <directory_backup> (in bin)
 And to "restore/import" that, i used (from directory_backup/dump/):
 mongorestore -d <database_name> <directory_backup>
+
+(./mongoimport --db test --collection testet --file data.json , in bin)
