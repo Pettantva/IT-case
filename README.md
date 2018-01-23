@@ -8,6 +8,7 @@ Kräver node.js, express.js, mongodb
 3.https://www.mongodb.com/download-center?jmp=nav#atlas Community Server
 
 mongoose as embedded web server
+npm install mongoose
 
 Sublimetext 2 as editor
 
